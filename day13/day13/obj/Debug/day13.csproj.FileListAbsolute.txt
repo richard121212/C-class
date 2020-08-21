@@ -1,0 +1,10 @@
+C:\Users\37126\Documents\GitHub\C-class\day13\day13\bin\Debug\day13.exe.config
+C:\Users\37126\Documents\GitHub\C-class\day13\day13\bin\Debug\day13.exe
+C:\Users\37126\Documents\GitHub\C-class\day13\day13\bin\Debug\day13.pdb
+C:\Users\37126\Documents\GitHub\C-class\day13\day13\obj\Debug\day13.csprojAssemblyReference.cache
+C:\Users\37126\Documents\GitHub\C-class\day13\day13\obj\Debug\day13.Form1.resources
+C:\Users\37126\Documents\GitHub\C-class\day13\day13\obj\Debug\day13.Properties.Resources.resources
+C:\Users\37126\Documents\GitHub\C-class\day13\day13\obj\Debug\day13.csproj.GenerateResource.cache
+C:\Users\37126\Documents\GitHub\C-class\day13\day13\obj\Debug\day13.csproj.CoreCompileInputs.cache
+C:\Users\37126\Documents\GitHub\C-class\day13\day13\obj\Debug\day13.exe
+C:\Users\37126\Documents\GitHub\C-class\day13\day13\obj\Debug\day13.pdb

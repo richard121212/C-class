@@ -16,5 +16,16 @@ namespace day13
         {
             InitializeComponent();
         }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            listElements.Items.Add("aaa");
+        }
     }
 }
