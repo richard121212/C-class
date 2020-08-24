@@ -85,5 +85,54 @@ namespace day13
             }
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            //Name input box
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (textBox2.Text.Length !=0|| textBox3.Text.Length != 0)
+            {
+                listElements.Items.Add(textBox2.Text + "," + textBox3.Text + "," + 
+                    Convert.ToString(numericUpDown1.Value));
+                textstringa.Add(new Student(textBox2.Text, textBox3.Text,
+                    Convert.ToInt32(numericUpDown1.Value)));
+                Class1.WriteStudentLst(textstringa, textname);
+
+
+            }
+            if(textBox2.Text.Length == 0 && textBox3.Text.Length == 0)
+            {
+
+            }
+            else
+            {
+
+            }
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+            //lastname input box
+        }
+
+        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
+        {
+            //course input box3
+
+        }
     }
 }
