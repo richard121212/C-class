@@ -1,0 +1,13 @@
+C:\Users\37126\Documents\GitHub\C-class\day15\day13\bin\Release\day13.exe.config
+C:\Users\37126\Documents\GitHub\C-class\day15\day13\bin\Release\day13.exe
+C:\Users\37126\Documents\GitHub\C-class\day15\day13\bin\Release\day13.pdb
+C:\Users\37126\Documents\GitHub\C-class\day15\day13\obj\Release\day13.Form1.resources
+C:\Users\37126\Documents\GitHub\C-class\day15\day13\obj\Release\day13.Properties.Resources.resources
+C:\Users\37126\Documents\GitHub\C-class\day15\day13\obj\Release\day13.csproj.GenerateResource.cache
+C:\Users\37126\Documents\GitHub\C-class\day15\day13\obj\Release\day13.csproj.CoreCompileInputs.cache
+C:\Users\37126\Documents\GitHub\C-class\day15\day13\obj\Release\day13.exe
+C:\Users\37126\Documents\GitHub\C-class\day15\day13\obj\Release\day13.pdb
+C:\Users\37126\Documents\GitHub\C-class\day15\day13\obj\Release\day13.csprojAssemblyReference.cache
+C:\Users\37126\Documents\GitHub\C-class\day15\day13\bin\Release\Newtonsoft.Json.dll
+C:\Users\37126\Documents\GitHub\C-class\day15\day13\bin\Release\Newtonsoft.Json.xml
+C:\Users\37126\Documents\GitHub\C-class\day15\day13\obj\Release\day13.csproj.CopyComplete
